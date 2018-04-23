@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jogl-dll">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/itot/projects/utility/jogamp-all-platforms-2.3.2/lib/windows-amd64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/itot/projects/utility/jogamp-all-platforms-2.3.2/jar/win-i586/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="C:/itot/projects/utility/jogamp-all-platforms-2.3.2/jar/win-i586/gluegen-rt-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="C:/itot/projects/utility/jogamp-all-platforms-2.3.2/jar/win-i586/jogl-all.jar"/>
+	<classpathentry kind="lib" path="C:/itot/projects/utility/jogamp-all-platforms-2.3.2/jar/win-i586/jogl-all-natives-windows-i586.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
